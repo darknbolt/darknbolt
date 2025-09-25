@@ -1,13 +1,26 @@
 ## Hi there 👋
 
+### I am...
+
 - Full-stack engineer
 - Software developer
 - Student at PJATK
 
-### Currently Learning
+### My experience
+
+- Vortex Solution : worked on an inventory management web application
+- Sirumatek : worked on a car workshop application
+
+### Currently learning
 
 - Cloud engineering
 - Rust
+
+### More about me
+
+- I drink too much coffee
+- Love seeing nature
+- Hate bad documentation
 <!--
 **darknbolt/darknbolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
