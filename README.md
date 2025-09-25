@@ -8,7 +8,7 @@
 
 ### My experience
 
-- Vortex Solution : worked on an inventory management web application
+- [Vortex Solution](https://github.com/Vortex-Sol/InventoryManagementWeb) : worked on an inventory management web application
 - Sirumatek : worked on a car workshop application
 
 ### Currently learning
