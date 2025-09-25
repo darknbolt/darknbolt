@@ -8,8 +8,8 @@
 
 ### My experience
 
-- [Vortex Solution](https://github.com/Vortex-Sol/InventoryManagementWeb) : worked on an inventory management web application
-- Sirumatek : worked on a car workshop application
+- [Vortex Solution](https://github.com/Vortex-Sol/InventoryManagementWeb) : Intern where developed from scratch an inventory management web application
+- [Sirumatek](https://sirumatek.com/en/) : Intern where I helped develop a car workshop application
 
 ### Currently learning
 
