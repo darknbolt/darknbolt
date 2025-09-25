@@ -8,8 +8,14 @@
 
 ### My experience
 
-- [Vortex Solution](https://github.com/Vortex-Sol/InventoryManagementWeb) : Intern where developed from scratch an inventory management web application
-- [Sirumatek](https://sirumatek.com/en/) : Intern where I helped develop a car workshop application
+- [Vortex Solution](https://github.com/Vortex-Sol/InventoryManagementWeb)
+  - Position: Intern
+  - Duration: 14/07/25 - 05/09/25
+  - Work: Developed from scratch an inventory management web application
+- [Sirumatek](https://sirumatek.com/en/)
+  - Postion: Intern
+  - Duration: 10/09/25 - TBD
+  - Work: Helped develop a car workshop application
 
 ### Currently learning
 
