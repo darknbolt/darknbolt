@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- Full-stack engineer
+- Software developer
+- Student at PJATK
+
+### Currently Learning
+
+- Cloud engineering
+- Rust
 <!--
 **darknbolt/darknbolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
