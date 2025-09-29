@@ -10,11 +10,11 @@
 
 - [Vortex Solution](https://github.com/Vortex-Sol/InventoryManagementWeb)
   - Position: Intern
-  - Duration: 14/07/25 - 05/09/25
+  - Duration: 14/07/2025 - 05/09/2025
   - Work: Developed from scratch an inventory management web application
 - [Sirumatek](https://sirumatek.com/en/)
   - Postion: Intern
-  - Duration: 10/09/25 - TBD
+  - Duration: 10/09/2025 - 26/09/2025
   - Work: Helped develop a car workshop application
 
 ### Currently learning
